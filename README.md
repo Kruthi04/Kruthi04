@@ -9,10 +9,10 @@
 
 #### 💼 Experience
 
-- **Software Developer** @ Xmplar Management Solutions  
+- **Software Developer** @ Xmplar Management Solutions Private Limited
   Built and maintained RESTful APIs, optimized PostgreSQL queries, and improved system performance with Spring Boot and MyBatis. Reduced downtime and boosted scalability.
 
-- **Full Stack Developer Intern** @ Xmplar  
+- **Full Stack Developer Intern** @ Xmplar Management Solutions Private Limited
   Developed engaging Flutter UIs, connected front-end to back-end systems, and followed Agile practices for fast, maintainable delivery.
 
 - **Instructional Aide** @ Arizona State University  
